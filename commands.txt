@@ -15,4 +15,5 @@ git branch
 git restore --source otherbranch /path
 git clone 
 git restore -v
+git pull origin main
 
