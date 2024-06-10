@@ -1,8 +1,8 @@
-ggit init
-git status 
+git init 
+git add
+git rm 
 git commit -m
 git log
-git rm 
+git log --oneline --pretty
+git log --oneline 
 git restore
-git add
-
