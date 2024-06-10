@@ -1,0 +1,8 @@
+ggit init
+git status 
+git commit -m
+git log
+git rm 
+git restore
+git add
+
