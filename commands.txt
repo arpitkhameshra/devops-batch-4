@@ -17,3 +17,5 @@ git remote -v (to check from clone repository github path)
 git pull origin main (it clone those branche which we had changes)
 git fetch (it clone only branches)
 git push 
+git push origin master
+git reset
