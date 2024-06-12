@@ -1,2 +1,0 @@
-username = shubham
-password = S@123
