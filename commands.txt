@@ -1,4 +1,9 @@
-git init 
+
+Git & Github
+ 
+#git is an example of VCS (Version Control System) & github is an example of DVCS (Distributed Version Control System)
+
+git init
 git add (add file)
 git commit -m (to commit the changes)
 git log (to check details changes done)
@@ -16,4 +21,5 @@ git clone (it clone the whole repository)
 git remote -v (to check from clone repository github path)
 git pull (to get github changes to local for that  branch )
 git fetch (for get all github branches changes to local)
-git push (for share local changes to github)  #if push file not set then go to config file and edit 
+git push (for share local changes to github)  #if push file not set then go to config file and edit
+
