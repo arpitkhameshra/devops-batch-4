@@ -17,3 +17,4 @@ git remote -v (to check from clone repository github path)
 git pull (to get github changes to local for that  branch )
 git fetch (for get all github branches changes to local)
 git push (for share local changes to github)
+#if the push file not set then go to config file and edit 
