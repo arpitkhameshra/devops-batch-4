@@ -23,3 +23,8 @@ git fetch (for get all github branches changes to local)
 git push (for share local changes to github)  #if push file not set then go to config file and edit
 git remote set-url --add origin <https://token key@remaining url>
 git remote set-url --delete origin <url>
+
+git clone vs git fork 
+
+git fork - A fork is a copy of a repository that allows you to make your own changes without impacting the original project. (because all changes done in own repository)
+git clone - When you clone a repository you are creating a local copy on your computer that you can sync with the remote on GitHub (it impact the original project)
