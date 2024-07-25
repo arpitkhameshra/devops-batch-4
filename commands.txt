@@ -3,14 +3,14 @@ Git is Version Control System which allows you to track version history of your 
  
 #git is an example of VCS (Version Control System) & github is an example of DVCS (Distributed Version Control System)
 
-git init
+git init {initialize a git repository .git )
 git add (add file)
 git commit -m (to commit the changes)
 git log (to check details changes done)
 git log --oneline --pretty (to check details changes done)
 git log --oneline (to check details changes done)
 git restore (to undo changes)
-git rm --cached (to remove file from repository not from file system)
+git rm --cached (to remove file from repository not from file system (staging to untracked))
 git config --global user.name "" (to change author name)
 git config --global user.email "" (to change author email addres)
 git checkout -b (to make new branch)
